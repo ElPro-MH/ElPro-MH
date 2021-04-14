@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Visits Badge](https://badges.pufler.dev/visits/ElPro-MH)](https://peerconnectors.me)
+[![Years Badge](https://badges.pufler.dev/years/ElPro-MH)](https://platinamo.com)
+[![Repos Badge](https://badges.pufler.dev/repos/ElPro-MH)](https://discord.gg/pA5G3qg)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ElPro-MH)](https://discord.gg/Ha2uFyH3Uc)
